@@ -48,7 +48,7 @@ class Game {
     this.leadeboardTitle.html("Tabla de Posiciones");
     this.leadeboardTitle.class("resetText");
     this.leadeboardTitle.position(width / 3 - 60, 40);
-    // I'm going to make him an offer he can't refuse.
+    // Houston, we have a problem.
     this.leader1.class("leadersText");
     this.leader1.position(width / 3 - 50, 80);
 

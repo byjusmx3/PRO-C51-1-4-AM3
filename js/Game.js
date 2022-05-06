@@ -48,7 +48,7 @@ class Game {
     this.leadeboardTitle.html("Tabla de Posiciones");
     this.leadeboardTitle.class("resetText");
     this.leadeboardTitle.position(width / 3 - 60, 40);
-    // Houston, we have a problem.
+    // Houston, tenemos un problema.
     this.leader1.class("leadersText");
     this.leader1.position(width / 3 - 50, 80);
 
